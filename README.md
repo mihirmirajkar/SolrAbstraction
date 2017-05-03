@@ -3,9 +3,13 @@
 By Mihir M Mirajkar   
 
 email: mmmirajk@ncsu.edu / mihirmirajkar@gmail.com
-
+  
+    
+    For this project I have used example provided by Solr i.e. for techproducts. I have created a war file which provides abstraction and isolates client and the solr server. If anything changes in the solr servers just one file needs to be edited and nothing needs to be done on the client side. This is a small example of abstraction that can be achieved.
 
 ## Requirements for the project:
+
+For this project I have used example 
 1. The solr server should be started using: 
 ```bash 
 bin/solr -e techproducts
