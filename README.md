@@ -1,6 +1,7 @@
 # SolrAbstraction
 
-By Mihir M Mirajkar 
+By Mihir M Mirajkar   
+
 email: mmmirajk@ncsu.edu / mihirmirajkar@gmail.com
 
 
