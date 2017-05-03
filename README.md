@@ -11,7 +11,7 @@ email: mmmirajk@ncsu.edu / mihirmirajkar@gmail.com
 bin/solr -e techproducts
 ```
 
-This can be edited very easily in a string in SolrUtils class and can be used for any core or exampple.
+This can be edited very easily in a string in SolrUtils class and can be used for any core or example.
 
 2. Use the war file provided(Solr_Abstraction.war) to upload on the clients server.
 3. Using the war uploaded, a query can be sent using the following URL:
