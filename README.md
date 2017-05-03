@@ -1,5 +1,9 @@
 # SolrAbstraction
 
+By Mihir M Mirajkar 
+email: mmmirajk@ncsu.edu / mihirmirajkar@gmail.com
+
+
 ## Requirements for the project:
 1. The solr server should be started using: 
 ```bash 
